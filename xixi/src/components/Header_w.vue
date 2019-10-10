@@ -4,6 +4,7 @@
       <router-link :to="{path:'/shop'}">商品</router-link>
       <router-link :to="{path:'/shopcart'}">购物车</router-link>
       <router-link :to="{path:'/phone'}">手机</router-link>
+      <h2>结束了</h2>
     </div>
 </template>
 
